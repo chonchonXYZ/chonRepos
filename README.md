@@ -1,2 +1,1 @@
-# chonRepos
-Hello
+Name: chonchon's Portforio and JScode
