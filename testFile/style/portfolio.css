@@ -10,6 +10,7 @@ body {
   font-family: 'Cutive Mono', monospace, sans-serif;
   font-size: 18px;
   color: #696969;
+  background-color: pink;
 }
 nav, header, section, footer {
   width: 1000px;
